@@ -4,5 +4,5 @@
 ****
 
 |邮箱|
-|---|---
-|鲁凯亮|chdlukailiang@gmail.com
+|---
+|chdlukailiang@gmail.com
